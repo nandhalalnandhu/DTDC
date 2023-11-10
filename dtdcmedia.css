@@ -1,0 +1,236 @@
+@media (max-width: 500px) {
+  * {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  /* .page{
+    height: 100%;
+    width: 100%;
+    background-color: yellowgreen;
+ 
+  } */
+
+  .project {
+    background-color: rgb(255, 242, 0);
+    height: 100%;
+  }
+  .navi {
+    /* background-color: rgb(11, 209, 239); */
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    overflow-y: hidden;
+  }
+  .mlogo {
+    width: 100px;
+    /* background-color: chartreuse; */
+  }
+  .logo {
+    width: 270px;
+  }
+
+  /* .b {
+    background-color: yellow;
+    width: 120px;
+  } */
+
+  .navidetails {
+    display: none;
+  }
+  .video {
+    background-color: rgb(77, 73, 73);
+    width: 100%;
+    height: 450px;
+    display: flex;
+    align-items: center;
+    overflow-y: hidden;
+  }
+  .threeproject {
+    /* background-color: rgb(204, 25, 25); */
+    height: 450px;
+    width: 100%;
+    display: grid;
+
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .bua {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(18, 62, 100);
+    border: 0.5px solid rgb(24, 24, 92);
+    color: white;
+  }
+  .logi {
+    /* background-color: rgb(65, 228, 20); */
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow-y: hidden;
+  }
+  .oneofindia {
+    /* background-color: rgb(253, 250, 250); */
+    height: 80px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  .odvc {
+    /* background-color: rgb(227, 37, 37); */
+    width: 100%;
+    height: 50vh;
+    display: grid;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .box3 {
+    text-align: center;
+  }
+  .twobox {
+    /* background-color: rgb(86, 24, 220); */
+    width: 100%;
+    height: 200px;
+    display: grid;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .box6 {
+    text-align: center;
+  }
+
+  .our {
+    /* background-color: yellow; */
+    width: 100%;
+  }
+
+  .ourservicebox {
+    width: 100%;
+    height: 160vh;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .ouvp {
+    /* background-color: rgb(117, 50, 205); */
+    width: 100%;
+    height: 350vh;
+  }
+  .ourunidiv {
+    /* background-color: rgb(206, 31, 154); */
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+  }
+  .twm {
+    /* background-color: rgb(5, 222, 5); */
+    width: 100%;
+    height: 250px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    overflow-y: hidden;
+    text-align: center;
+  }
+  .cr {
+    /* background-color: rgb(212, 212, 8); */
+    width: 280px;
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .itn {
+    /* background-color: rgb(191, 11, 11); */
+    width: 100%;
+    height: 300vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    overflow-y: hidden;
+  }
+  .inthenews {
+    width: 500px;
+    height: 100px;
+    font-size: 15px;
+    /* background-color: rgb(189, 20, 20); */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  .news13box {
+    /* background-color: rgb(230, 230, 28); */
+    width: 100%;
+    height: 280vh;
+    overflow-y: hidden;
+
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 25px;
+    font-size: 10px;
+  }
+  .first3box {
+    /* background-color: aqua; */
+    width: 90%;
+  }
+  .mainn13 {
+    width: 90%;
+    /* background-color: yellowgreen; */
+    display: flex;
+    justify-content: center;
+  }
+  .new {
+    font-size: 15px;
+  }
+  .news23box {
+    display: none;
+  }
+  .testimonidiv {
+    height: 350px;
+  }
+  .testihead {
+    width: 80%;
+    height: 60px;
+    /* background-color: yellow; */
+    margin-left: 120px;
+  }
+  .pp {
+    display: none;
+  }
+
+  .textz {
+    /* background-color: aqua; */
+    width: 200%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .quoate {
+    margin: 0%;
+    font-size: 10px;
+    width: 200px;
+    height: 300px;
+  }
+  h3 {
+    font-size: 10px;
+  }
+  .hed{font-size: 13px;}
+  .las{font-size: 10px;}
+  .selfservice{display:none;}
+}

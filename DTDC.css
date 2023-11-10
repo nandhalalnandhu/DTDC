@@ -1,0 +1,492 @@
+* {
+  padding: 0%;
+  border: 0cap;
+}
+
+.page {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 730vh;
+  display: flex;
+  justify-content: center;
+}
+
+.project {
+  background-color: rgb(223, 22, 22);
+  width: 1241px;
+  height: 300px;
+}
+
+.navi {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mlogo {
+  background-color: rgb(254, 254, 254);
+  width: 15%;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin-right: 150px; */
+}
+ 
+.navidetails {
+  background-color: rgb(252, 254, 252);
+  width: 700px;
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-right: 90px;
+}
+
+.b {
+  width: 200px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 20px;
+}
+.bu {
+  height: 40px;
+  width: 160px;
+  color: white;
+  border: 0.1px solid rgb(8, 8, 132);
+  background-color: rgba(22, 22, 87, 0.877);
+}
+
+.bu:hover {
+  color: white;
+  background-color: rgb(195, 59, 9);
+}
+
+.j {
+  border: 0px;
+}
+.video {
+  background-color: rgb(51, 49, 49);
+  width: 100%;
+  height: 500px;
+  display: flex;
+  align-items: center;
+}
+
+.jawan {
+  width: 100%;
+  height: 500px;
+}
+
+.threeproject {
+  background-color: rgb(255, 255, 255);
+  height: 190px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+h3 {
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.776);
+}
+
+span {
+  font-size: 5px;
+  color: rgba(183, 181, 181, 0.034);
+}
+
+.boxa {
+  width: 380px;
+  height: 139px;
+  background-color: rgb(255, 248, 248);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 0.01px solid rgba(128, 128, 128, 0.199);
+}
+
+.bua {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(18, 62, 100);
+  border: 0.5px solid rgb(24, 24, 92);
+  color: white;
+}
+.bua:hover {
+  background-color: rgb(219, 20, 20);
+  border: 0.5px solid rgb(228, 70, 13);
+}
+.logi {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 420px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.oneofindia {
+  /* background-color: rgb(25, 226, 7); */
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.oneindia {
+  /* background-color: violet; */
+  width: 380px;
+  font-size: 25px;
+  color: rgba(0, 0, 0, 0.703);
+}
+.odvc {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 150px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.box1 {
+  background-color: rgb(255, 255, 255);
+}
+
+.box2 {
+  background-color: rgb(255, 255, 255);
+}
+
+.box3 {
+  background-color: rgb(255, 255, 255);
+}
+
+.box4 {
+  background-color: rgb(255, 255, 255);
+}
+
+.twobox {
+  background-color: rgb(252, 255, 249);
+  width: 900px;
+  height: 140px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.box5 {
+  background-color: rgb(255, 255, 255);
+}
+
+.box6 {
+  background-color: rgb(255, 255, 255);
+}
+
+h1 {
+  color: rgb(245, 26, 26);
+  display: flex;
+  justify-content: center;
+}
+h3 {
+  color: light rgba(255, 251, 251, 0.973);
+}
+
+.our {
+  background-color: rgb(237, 241, 237);
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h4 {
+  font-size: 30px;
+}
+
+.ourservicebox {
+  background-color: rgb(237, 241, 237);
+  width: 1238px;
+  height: 390px;
+  display: flex;
+  justify-content: space-around;
+}
+.ourbox {
+  background-color: rgb(255, 255, 255);
+  width: 395px;
+}
+.img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+span {
+  color: black;
+  font-size: 20px;
+}
+
+p {
+  font-size: 15px;
+  color: rgb(107, 107, 107);
+}
+
+.ourtextdiv {
+  background-color: rgb(255, 255, 255);
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 30px;
+}
+
+.space {
+  background-color: #edf1ed;
+  width: 100%;
+  height: 50px;
+}
+
+.ouvp {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 550px;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  align-items: center;
+}
+.ourunidiv {
+  background-color: rgb(248, 253, 252);
+  width: 100%;
+  height: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.twm {
+  background-color: rgb(252, 255, 252);
+  width: 100%;
+  height: 180px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.cr {
+  background-color: rgb(255, 255, 251);
+  width: 500px;
+  height: 180px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.itn {
+  background-color: rgb(255, 255, 255);
+  width: 1200px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h6 {
+  font-size: 15px;
+  color: grey;
+}
+
+.inthenews {
+  width: 500px;
+  height: 190px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.news13box {
+  background-color: rgb(255, 255, 252);
+  width: 100%;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.news23box {
+  background-color: rgb(255, 255, 254);
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.n13 {
+  width: 300px;
+}
+.n23 {
+  width: 300px;
+}
+
+.first3box {
+  width: 370px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 0.1px solid rgba(202, 193, 193, 0.459);
+  background-color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+.second3box {
+  width: 370px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 0.1px solid rgba(100, 95, 95, 0.244);
+  background-color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+.ne {
+  background-color: white;
+  color: rgb(36, 36, 104);
+  display: flex;
+  justify-content: center;
+  font-size: 22px;
+  font-family: "Poppins", sans-serif;
+}
+
+.new {
+  background-color: white;
+  font-size: 18px;
+  margin-top: 5px;
+  color: rgba(88, 83, 83, 0.772);
+  font-family: "Poppins", sans-serif;
+}
+
+.testimonidiv {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 900px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.testihead {
+  width: 600px;
+  height: 150px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-right: 140px;
+}
+
+.testi {
+  color: rgba(0, 0, 0, 0.749);
+  font-size: 30px;
+}
+
+.quoate {
+  background-color: rgb(255, 255, 255);
+  width: 500px;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 0.1px solid rgb(242, 236, 236);
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.smi {
+  margin-left: 60px;
+}
+
+.textz {
+  background-color: rgba(255, 253, 253, 0.349);
+  width: 600px;
+}
+
+.lastdiv {
+  background-color: rgb(17, 19, 104);
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: space-around;
+  /* align-items: center; */
+  padding-top: 20px;
+}
+
+.ldtdc {
+  background-color: OE 2C 53;
+  width: 250px;
+}
+
+hr {
+  width: 250px;
+  height: 0px;
+}
+
+.red {
+  width: 50px;
+}
+
+.company {
+  background-color: OE 2C 53;
+  width: 200px;
+}
+
+.selfservice {
+  background: color OE 2C 53px;
+  width: 200px;
+}
+
+.hed {
+  color: rgba(255, 255, 255, 0.977);
+}
+
+.las {
+  color: rgba(245, 245, 245, 0.653);
+  font-family: Acumin Pro;
+}
+
+.end {
+  background-color: rgb(196, 15, 15);
+  width: 100%;
+  height: 200px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.limited {
+  color: rgb(230, 221, 221);
+  background-color: rgb(196, 15, 15);
+  height: 50px;
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+}
+
+.poli {
+  color: rgb(215, 206, 206);
+  background-color: rgb(196, 15, 15);
+  text-decoration: none;
+  height: 50px;
+  border: 0px;
+  padding-right: 50px;
+}
+.redline{ width: 100%;
+  height: 2px;
+color: red;}
